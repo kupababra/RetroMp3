@@ -49,8 +49,12 @@ or contact the author directly at **jms@data.pl**.
 
 ---
 
-## The Trick
-There is a trick, if you don't have an arcade stick "joycart" the volume in the program won't work for you ;]
+## 🎛️ The Trick
+
+There is a trick – if you don't have an arcade stick **joycart**,  
+the volume in the program won't work for you ;]
+
+---
 
 ## 💸 Wsparcie
 
