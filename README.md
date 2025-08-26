@@ -1,3 +1,4 @@
+<img src="1.png" alt="RetroMp3 Logo" width="150">
 # RetroMp3 🎶
 
 **Status:** Alpha / Binary-only release  
