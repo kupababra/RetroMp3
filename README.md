@@ -42,3 +42,8 @@ or contact the author directly at **jms@data.pl**.
 - [ ] Improved playback engine  
 - [ ] Cross-platform builds  
 - [ ] Commercial release
+
+---
+
+## The Trick
+There is a trick, if you don't have an arcade stick "joycart" the volume in the program won't work for you ;]
