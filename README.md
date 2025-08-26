@@ -54,6 +54,6 @@ There is a trick, if you don't have an arcade stick "joycart" the volume in the 
 
 ## 💸 Wsparcie
 
-Jeśli chcesz wesprzeć rozwój RetroMp3, możesz postawić mi kawę przez Tipply:
+If you want to support the development of RetroMp3, you can buy me a coffee via Tipply:
 
 [![Wesprzyj na Tipply](https://tipply.pl/assets/img/tipply_button.png)](https://tipply.pl/u/unix-tech)
