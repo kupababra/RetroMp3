@@ -17,7 +17,7 @@ Future versions will be available under a **commercial license**.
 
 ## 🚀 Usage
 1. Download the latest release from the [Releases](../../releases) page.  
-2. Extract the archive for your platform (Linux/Windows/…).
+2. Extract the archive for your platform (Linux/NetBSD/…).
 3. Run the binary as a regular user.  
 
 ⚠️ **Warning:** This is an alpha version – expect bugs and incomplete functionality.
