@@ -1,6 +1,8 @@
-<img src="1.png" alt="RetroMp3 Logo" width="150">
-# RetroMp3 🎶
 
+# RetroMp3 🎶
+<p align="center">
+  <img src="1.png" alt="RetroMp3 Logo" width="200">
+</p>
 **Status:** Alpha / Binary-only release  
 **Author:** jms@data.pl, bofh@retro-technology.pl  
 **License:** Proprietary – see [LICENSE.txt](LICENSE.txt)
