@@ -42,7 +42,7 @@ or contact the author directly at **jms@data.pl**.
 ---
 
 ## 🔮 Roadmap
-- [*] Bug fixes from alpha testing  
+- [ ] Bug fixes from alpha testing  
 - [ ] Improved playback engine  
 - [ ] Cross-platform builds  
 - [ ] Commercial release
