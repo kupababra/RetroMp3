@@ -42,7 +42,7 @@ or contact the author directly at **jms@data.pl**.
 ---
 
 ## 🔮 Roadmap
-- [ ] Bug fixes from alpha testing  
+- [*] Bug fixes from alpha testing  
 - [ ] Improved playback engine  
 - [ ] Cross-platform builds  
 - [ ] Commercial release
@@ -51,8 +51,7 @@ or contact the author directly at **jms@data.pl**.
 
 ## 🎛️ The Trick
 
-There is a trick – if you don't have an arcade stick **joycart**,  
-the volume in the program won't work for you ;]
+Works on – Lenovo Legion Go Handheld - Legion Go gamepad (joycons) supported.
 
 ---
 
