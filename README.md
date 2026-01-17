@@ -5,7 +5,7 @@
 </p>
 
 **Status:** Alpha / Binary-only release  
-**Author:** bofh@retro-technology.pl  
+**Author:** id3fix@retro-technology.pl  
 **License:** Proprietary – see [LICENSE.txt](LICENSE.txt)
 
 ---
