@@ -1,7 +1,7 @@
 RetroMp3 License Agreement (Test/Alpha Version)
 
-Copyright (c) 2025 RetroMp3 Authors
-Author: jms@data.pl, bofh@retro-technology.pl
+Copyright (c) 2025 RetroMp3 Author
+Author: bofh@retro-technology.pl
 All rights reserved.
 
 This software is provided in binary form only for the purpose of testing and evaluation.
