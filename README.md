@@ -37,7 +37,7 @@ Future versions will be available under a **commercial license**.
 
 ## 🐞 Reporting issues
 If you encounter bugs or crashes, please open an [Issue](../../issues) on GitHub,  
-or contact the author directly at **jms@data.pl**.
+or contact the author directly at **bofh@retro-technology.pl**.
 
 ---
 
